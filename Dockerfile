@@ -1,7 +1,7 @@
 FROM binhnv/openjdk
 MAINTAINER "Binh Van Nguyen<binhnv80@gmail.com>"
 
-ENV GRADLE_VERSION="3.0" \
+ENV GRADLE_VERSION="3.4" \
     MAVEN_VERSION="3.3.9" \
     GRADLE_HOME="${MY_APP_DIR}/gradle" \
     MAVEN_HOME="${MY_APP_DIR}/maven"
