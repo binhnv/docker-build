@@ -1,4 +1,4 @@
-FROM binhnv/openjdk
+FROM binhnv/openjdk:1.0.3
 MAINTAINER "Binh Van Nguyen<binhnv80@gmail.com>"
 
 ENV GRADLE_VERSION="3.4" \
